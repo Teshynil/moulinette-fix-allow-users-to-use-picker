@@ -1,0 +1,28 @@
+{
+  "id": "moulinette-fix-allow-users-to-use-picker",
+  "title": "Moulinette-allow-users-to-use-picker",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "esmodules": [
+    "moulinette-fix-allow-users-to-use-picker.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "moulinette-core",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Teshynil",
+      "discord": "teshynil",
+      "flags": {}
+    }
+  ]
+}
