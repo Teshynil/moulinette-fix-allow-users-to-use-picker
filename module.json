@@ -18,11 +18,20 @@
       }
     ]
   },
+  "manifestPlusVersion": "1.2.0",
   "authors": [
     {
-      "name": "Teshynil",
-      "discord": "teshynil",
-      "flags": {}
-    }
-  ]
+			"name": "Teshynil",
+			"url": "https://github.com/Teshynil/",
+			"email": "",
+			"discord": "teshynil",
+			"ko-fi": "",
+			"patreon": "",
+			"reddit": "u/Teshynil",
+			"twitter": "@Teshynil"
+		}
+  ],
+  "url": "https://github.com/Teshynil/moulinette-fix-allow-users-to-use-picker",
+	"download": "https://github.com/Teshynil/moulinette-fix-allow-users-to-use-picker/archive/refs/heads/main.zip",
+	"manifest": "https://raw.githubusercontent.com/Teshynil/moulinette-fix-allow-users-to-use-picker/main/module.json"
 }
